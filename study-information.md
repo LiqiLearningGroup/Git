@@ -4,7 +4,8 @@
 
 - From mosbic:
 
-> [Git-it](http://jlord.us/git-it)
+> [Git-it](http://jlord.us/git-it/index-zhtw.html)
+> [Git-it桌面版](https://github.com/jlord/git-it-electron)
 
 - from Dom:
 
