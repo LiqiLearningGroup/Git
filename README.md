@@ -36,6 +36,8 @@ git push -u origin master
 
 edit by Prefocuson
 
+(You have already set your git tool linked to your github account)
+
 First, get the repository address of LiqiLearningGroup
 
 You can click into a specific repository to get its address on the right of "Clone or Download", get the address.
@@ -55,5 +57,4 @@ git clone git@github.com:LiqiLearningGroup/Git.git
 Now, you have succeed to clone the repository into your own folder.
 ![Clone folder](/images/clone-folder.png)
 
-Then you can edit files by yourself. Using master or branch to edit, it's all ok, the way you like.
-
+Then you can edit files by yourself. Using master or branch to edit, it's both ok, the way you like.
