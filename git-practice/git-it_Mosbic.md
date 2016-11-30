@@ -1,4 +1,4 @@
-# GIT-IT 教程笔记
+﻿# GIT-IT 教程笔记
 [TOC]
 nodeschool教程见[这里](http://nodeschool.io/zh-cn/).
 git 版本控制
@@ -63,7 +63,6 @@ repository在上文的翻译中称作 程式库，即程序仓库。
 `git remote add upstream <URL>`
 ## 建立一个feature分支branch
 
-![](./_image/2016-09-15 21-40-18.jpg)
 `git  status`
 新增分支
 `git branch <BRANCHNAME>`
